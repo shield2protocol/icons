@@ -1,12 +1,5 @@
 {
-    "name": "Wrapped Tokens",
-    "logoURI": "https://cloudflare-ipfs.com/ipfs/QmUJQF5rDNQn37ToqCynz6iecGqAmeKHDQCigJWpUwuVLN",
-    "keywords": [
-        "wrapped",
-        "bitcoin",
-        "ether"
-    ],
-    "timestamp": "2021-07-06T18:18:00+00:00",
+    
     "tokens": [
         {
             "chainId": 1,
@@ -429,9 +422,5 @@
             ]
         }
     ],
-    "version": {
-        "major": 1,
-        "minor": 9,
-        "patch": 4
-    }
+   
 }
